@@ -1,6 +1,6 @@
 # Streamlit Demo: Finance Chart
 ---
-This app is a simple example of using Strealit to create a financial data web app.
+This app is a simple example of using Streamlit to create a financial data web app.
 This demo use streamlit, pandas and yfinance modules.
 
 Allows you to select one of the 500 companies that compose the S&P 500 and
