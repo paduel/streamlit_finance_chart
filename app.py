@@ -14,8 +14,6 @@ def load_quotes(asset):
     return yfinance.download(asset)
 
 
-
-
 def main():
     components = load_data()
     title = st.empty()
