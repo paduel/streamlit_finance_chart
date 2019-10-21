@@ -7,8 +7,7 @@ Allows you to select one of the 500 companies that compose the S&P 500 and
 display a updated chart of adjusted closing prices, as well as add a pair of
 moving averages.
 
-![Sample Animation](https://raw.githubusercontent
-.com/paduel/streamlit_finance_chart/master/sample.gif "Sample Animation")
+![Sample Animation](https://raw.githubusercontent.com/paduel/streamlit_finance_chart/master/sample.gif "Sample Animation")
 
 ## How to run this demo
 ```
@@ -17,5 +16,4 @@ streamlit run https://raw.githubusercontent.com/paduel/streamlit_finance_chart/m
 ```
 
 You can try another Streamlit demo with financial data of my friend
-Bukosabino  at []this github repo](https://github
-.com/bukosabino/streamlit-demo-financial-eda).
+Bukosabino  at []this github repo](https://github.com/bukosabino/streamlit-demo-financial-eda).
