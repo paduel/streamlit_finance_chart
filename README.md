@@ -3,10 +3,17 @@
 This app is a simple example of using Strealit to create a financial data web app.
 This demo use streamlit, pandas and yfinance modules.
 
-Allows you to select one of the 500 companies that compose the S&P 500 and display a chart with adjusted closing prices, as well as add a pair of moving averages.
+Allows you to select one of the 500 companies that compose the S&P 500 and
+display a updated chart of adjusted closing prices, as well as add a pair of
+moving averages.
 
 
 ## How to run this demo
 ```
-pip install --upgrade streamlit yfinance
+pip install --upgrade streamlit yfinance lxml pandas
 streamlit run https://raw.githubusercontent.com/paduel/streamlit_finance_chart/master/app.py
+
+
+You can try another Streamlit demo with financial data of my friend
+Bukosavino  at []this github repo](https://github
+.com/bukosabino/streamlit-demo-financial-eda).
