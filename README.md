@@ -9,6 +9,11 @@ moving averages.
 
 ![Sample Animation](https://raw.githubusercontent.com/paduel/streamlit_finance_chart/master/sample.gif "Sample Animation")
 
+# Requirements
+
+Python3.7 version
+
+
 ## How to run this demo
 ```
 pip install --upgrade streamlit yfinance lxml pandas
