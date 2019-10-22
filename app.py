@@ -75,7 +75,8 @@ def main():
     st.sidebar.info('This app is a simple example of '
                     'using Strealit to create a financial data web app.\n'
                     '\nIt is maintained by [Paduel]('
-                    'https://twitter.com/paduel_py).')
+                    'https://twitter.com/paduel_py).\n\n'
+                    'Check the code at https://github.com/paduel/streamlit_finance_chart')
 
 if __name__ == '__main__':
     main()
