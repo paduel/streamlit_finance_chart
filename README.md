@@ -20,5 +20,4 @@ pip install --upgrade streamlit yfinance lxml pandas
 streamlit run https://raw.githubusercontent.com/paduel/streamlit_finance_chart/master/app.py
 ```
 
-You can test another Streamlit demo with financial data of my friend
-Bukosabino  at [this github repo](https://github.com/bukosabino/streamlit-demo-financial-eda).
+You can test another Streamlit demo with financial data at [this github repo](https://github.com/bukosabino/streamlit-demo-financial-eda) of my friend Bukosabino.
