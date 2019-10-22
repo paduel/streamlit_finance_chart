@@ -11,7 +11,7 @@ moving averages.
 
 ## Requirements
 
-Python3.7 version
+Python3.6 version or superior
 
 
 ## How to run this demo
@@ -19,5 +19,10 @@ Python3.7 version
 pip install --upgrade streamlit yfinance lxml pandas
 streamlit run https://raw.githubusercontent.com/paduel/streamlit_finance_chart/master/app.py
 ```
+## Or play online
+
+You can test the app at https://streamlit-finance-chart.herokuapp.com/
+
+## Other financial streamlit demo
 
 You can test another Streamlit demo with financial data at [this github repo](https://github.com/bukosabino/streamlit-demo-financial-eda) of my friend Bukosabino.
