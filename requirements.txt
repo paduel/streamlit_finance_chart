@@ -1,4 +1,4 @@
 pandas==0.25.1
-yfinance==0.2502
+yfinance
 streamlit==0.47.4
 lxml==4.4.1
