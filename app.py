@@ -63,8 +63,8 @@ def main():
     st.subheader('Chart')
     st.line_chart(data2)
 
-    if st.sidebar.checkbox('View stadistic'):
-        st.subheader('Stadistic')
+    if st.sidebar.checkbox('View statistic'):
+        st.subheader('Statistic')
         st.table(data2.describe())
 
     if st.sidebar.checkbox('View quotes'):
